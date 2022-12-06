@@ -40,8 +40,11 @@ body{
     background-color: #7D83FD ;
     border: 1px solid darkblue;
 }
+
+/* Registration From card  */
 .card-title{
     color: wheat ;
+    font-size: 200%;
 }
 .card .form-control{
     margin: 10px 0px;
